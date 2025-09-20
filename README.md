@@ -114,7 +114,7 @@ ContaPoupanca --> Conta
 <br />
 
 <div align="center">
-   <img src="https://i.imgur.com/MFK9yXB.png" title="source: imgur.com" width="90%"/>
+   <img src="https://i.imgur.com/GYzCQrR.png" title="source: imgur.com" width="90%"/>
 </div>
 
 <br />
