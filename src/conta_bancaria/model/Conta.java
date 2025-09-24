@@ -20,7 +20,9 @@ public class Conta {
 		this.saldo = saldo;
 	}
 	
-	// Métodos Get e Set
+	public Conta() {}
+	
+		// Métodos Get e Set
 
 	public int getNumero() {
 		return numero;
